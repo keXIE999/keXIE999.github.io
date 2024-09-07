@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I pursued my master's degree at University of Nottingham in the UK, bachelor's degree at Fuzhou University of International Studies and Trade, China. My research interest includes Feminist and Multimodal Critical Discourse Analysis, qualitative analysis, gender and language, Sociolinguistics.
+I pursued my master's degree in School of English, University of Nottingham in the UK, bachelor's degree at Fuzhou University of International Studies and Trade, China. My research interest includes multimodal Critical Discourse Analysis, gender and language, qualitative analysis, and sociolinguistics.
 
-You can find my CV here:
+You can find my CV here: 
