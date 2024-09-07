@@ -10,4 +10,4 @@ redirect_from:
 
 I graduated my master's degree in Applied Linguistics and English Language Teaching from School of English (https://www.nottingham.ac.uk/english/), University of Nottingham in the UK (https://www.nottingham.ac.uk/), bachelor's degree in English from Fuzhou University of International Studies and Trade (https://www.fzfu.com/), China. My research interest includes multimodal Critical Discourse Analysis, gender and language, qualitative analysis, and sociolinguistics.
 
-You can find my CV here: 
+You can find my CV here: assets/Ke XIE_CV.pdf
